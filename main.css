@@ -1,19 +1,1 @@
-@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300;400;700&family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap');
 
-.chakra-petch-light {
-  font-family: "Chakra Petch", serif;
-  font-weight: 300;
-  font-style: normal;
-}
-
-.chakra-petch-regular {
-  font-family: "Chakra Petch", serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
-.title {
-  font-family: "Chakra Petch", serif;
-  font-weight: 700;
-  font-style: normal;
-}
