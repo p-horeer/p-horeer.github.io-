@@ -28,6 +28,9 @@ body{
   text-size-adjust: none;
 }
 
+@media(min-width:1000px){.sp{display: none !important;}}
+@media(max-width:1000px){.pc{display: none !important;}}
+
 @font-face {
   font-family: "font";
   font-weight: 400;
