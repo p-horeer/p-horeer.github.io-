@@ -3,3 +3,6 @@
   sru: url("../fonts/Iceland-Regular.ttf") format("truetype")
 }
 
+title {
+  font-family: "font", sans-serif;
+}
