@@ -1,4 +1,5 @@
-.body{
-  background-image: url('../photo/background.jpeg');
-  background-repeat: no-repeat;
+.iceland-regular {
+  font-family: "Iceland", serif;
+  font-weight: 400;
+  font-style: normal;
 }
