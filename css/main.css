@@ -1,3 +1,32 @@
+
+html{
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  -webkit-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  min-width: 350px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+  overscroll-behavior: none;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: calc(100 * var(--vh));
+  /*background-color: #f2f2fe;*/
+  background-color: #ECEFF4;
+  -webkit-user-drag: none;
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: none;
+  text-size-adjust: none;
+}
 @font-face {
   font-family: "font";
   font-weight: 400;
