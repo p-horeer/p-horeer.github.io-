@@ -5,6 +5,12 @@
   sru: url("../fonts/Iceland-Regular.ttf") format("truetype")
 }
 
+.links{
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
 .title {
   font-size: 3rem;
   line-height: 1;
